@@ -1,0 +1,4 @@
+dist/
+admin/includes/conn.php
+manager/includes/conn.php
+includes/conn.php
