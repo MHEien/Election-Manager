@@ -14,7 +14,7 @@
 		$voter = substr(str_shuffle($set), 0, 6);
 
 		//generate password
-		$password = password_hash(substr(str_shuffle('123456789abcdefghijklmnopqrstuvwxyz'), 0, 8), PASSWORD_DEFAULT);
+		$password = substr(str_shuffle('123456789abcdefghijklmnopqrstuvwxyz'), 0, 8);
 
 		//Get the election id from the manager
 		$sql = "SELECT election_id FROM manager WHERE id = '".$_SESSION['manager']."'";
