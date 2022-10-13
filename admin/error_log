@@ -1,0 +1,974 @@
+[17-Mar-2022 19:56:50 Europe/Berlin] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bisonyeu/elections.biso.no/admin/includes/conn.php on line 2
+[17-Mar-2022 20:10:41 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[17-Mar-2022 20:10:41 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[17-Mar-2022 20:10:41 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[17-Mar-2022 20:10:41 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[17-Mar-2022 20:11:03 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[17-Mar-2022 20:11:03 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[17-Mar-2022 20:13:35 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[17-Mar-2022 20:13:35 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[17-Mar-2022 20:13:35 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[17-Mar-2022 20:13:35 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[18-Mar-2022 15:29:19 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[18-Mar-2022 15:29:19 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[18-Mar-2022 15:29:19 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[18-Mar-2022 15:29:19 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[20-Mar-2022 18:33:23 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[20-Mar-2022 18:33:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[20-Mar-2022 18:33:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[20-Mar-2022 18:33:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[20-Mar-2022 18:33:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[20-Mar-2022 18:33:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[20-Mar-2022 18:33:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[20-Mar-2022 18:33:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[20-Mar-2022 18:33:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[20-Mar-2022 18:33:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[20-Mar-2022 18:33:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[20-Mar-2022 18:33:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[20-Mar-2022 18:38:23 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[20-Mar-2022 18:38:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[20-Mar-2022 18:38:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[20-Mar-2022 18:38:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[20-Mar-2022 18:38:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[20-Mar-2022 18:38:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[20-Mar-2022 18:38:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[20-Mar-2022 18:38:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[20-Mar-2022 18:38:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[20-Mar-2022 18:38:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[20-Mar-2022 18:38:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[20-Mar-2022 18:38:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[20-Mar-2022 19:05:18 Europe/Berlin] PHP Notice:  Undefined index: election in /home/bisonyeu/elections.biso.no/admin/election_add.php on line 5
+[20-Mar-2022 19:05:30 Europe/Berlin] PHP Notice:  Undefined index: election in /home/bisonyeu/elections.biso.no/admin/election_add.php on line 5
+[22-Mar-2022 14:35:42 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[22-Mar-2022 14:35:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[22-Mar-2022 14:35:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[22-Mar-2022 14:35:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[22-Mar-2022 14:35:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[22-Mar-2022 14:35:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[22-Mar-2022 14:35:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[22-Mar-2022 14:35:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[22-Mar-2022 14:35:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[22-Mar-2022 14:35:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[22-Mar-2022 14:35:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[22-Mar-2022 14:35:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[22-Mar-2022 17:08:18 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[22-Mar-2022 17:08:18 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[22-Mar-2022 17:08:18 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[22-Mar-2022 17:08:18 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[22-Mar-2022 17:08:18 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[22-Mar-2022 17:08:18 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[22-Mar-2022 17:08:18 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[22-Mar-2022 17:08:18 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[22-Mar-2022 17:08:18 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[22-Mar-2022 17:08:18 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[22-Mar-2022 17:08:18 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[22-Mar-2022 17:08:18 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[22-Mar-2022 19:09:56 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[22-Mar-2022 19:09:56 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[22-Mar-2022 19:09:56 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[22-Mar-2022 19:09:56 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[22-Mar-2022 19:13:45 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[22-Mar-2022 19:13:46 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[22-Mar-2022 19:13:46 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[22-Mar-2022 19:13:46 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[22-Mar-2022 19:16:03 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[22-Mar-2022 19:16:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[22-Mar-2022 19:16:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[22-Mar-2022 19:16:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[22-Mar-2022 19:16:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[22-Mar-2022 19:16:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[22-Mar-2022 19:16:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[22-Mar-2022 19:16:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[22-Mar-2022 19:16:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[22-Mar-2022 19:16:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[22-Mar-2022 19:16:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[22-Mar-2022 19:16:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[22-Mar-2022 19:22:05 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 8
+[22-Mar-2022 19:22:05 Europe/Berlin] PHP Notice:  Undefined index: voters_key in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 9
+[22-Mar-2022 19:22:15 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 8
+[22-Mar-2022 19:22:15 Europe/Berlin] PHP Notice:  Undefined index: voters_key in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 9
+[22-Mar-2022 19:22:15 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 8
+[22-Mar-2022 19:22:15 Europe/Berlin] PHP Notice:  Undefined index: voters_key in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 9
+[22-Mar-2022 19:25:35 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[22-Mar-2022 19:25:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[22-Mar-2022 19:25:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[22-Mar-2022 19:25:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[22-Mar-2022 19:25:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[22-Mar-2022 19:25:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[22-Mar-2022 19:25:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[22-Mar-2022 19:25:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[22-Mar-2022 19:25:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[22-Mar-2022 19:25:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[22-Mar-2022 19:25:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[22-Mar-2022 19:25:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[22-Mar-2022 19:35:36 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[22-Mar-2022 19:35:36 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[22-Mar-2022 19:35:36 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[22-Mar-2022 19:35:36 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[22-Mar-2022 19:39:28 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[22-Mar-2022 19:39:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[22-Mar-2022 19:39:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[22-Mar-2022 19:39:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[22-Mar-2022 19:39:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[22-Mar-2022 19:39:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[22-Mar-2022 19:39:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[22-Mar-2022 19:39:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[22-Mar-2022 19:39:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[22-Mar-2022 19:39:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[22-Mar-2022 19:39:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[22-Mar-2022 19:39:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[23-Mar-2022 11:36:52 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[23-Mar-2022 11:36:52 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[23-Mar-2022 11:36:52 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[23-Mar-2022 11:36:52 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[23-Mar-2022 11:36:52 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[23-Mar-2022 11:36:52 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[23-Mar-2022 11:36:52 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[23-Mar-2022 11:36:52 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[23-Mar-2022 11:36:52 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[23-Mar-2022 11:36:52 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[23-Mar-2022 11:36:52 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[23-Mar-2022 11:36:52 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[23-Mar-2022 11:47:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/positions_add.php on line 13
+[23-Mar-2022 18:02:02 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[23-Mar-2022 18:02:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[23-Mar-2022 18:02:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[23-Mar-2022 18:02:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[23-Mar-2022 18:02:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[23-Mar-2022 18:02:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[23-Mar-2022 18:02:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[23-Mar-2022 18:02:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[23-Mar-2022 18:02:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[23-Mar-2022 18:02:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[23-Mar-2022 18:02:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[23-Mar-2022 18:02:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[23-Mar-2022 22:45:57 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[23-Mar-2022 22:45:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[23-Mar-2022 22:45:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[23-Mar-2022 22:45:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[23-Mar-2022 22:45:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[23-Mar-2022 22:45:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[23-Mar-2022 22:45:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[23-Mar-2022 22:45:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[23-Mar-2022 22:45:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[23-Mar-2022 22:45:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[23-Mar-2022 22:45:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[23-Mar-2022 22:45:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:05:06 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:29 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: email in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 8
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 9
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: voters_key in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 11
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:06:35 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters.php on line 74
+[24-Mar-2022 01:07:18 Europe/Berlin] PHP Notice:  Undefined index: email in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 8
+[24-Mar-2022 01:07:18 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 9
+[24-Mar-2022 01:07:18 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[24-Mar-2022 01:07:18 Europe/Berlin] PHP Notice:  Undefined index: voters_key in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 11
+[24-Mar-2022 01:15:13 Europe/Berlin] PHP Notice:  Undefined index: email in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 8
+[24-Mar-2022 01:15:13 Europe/Berlin] PHP Notice:  Undefined index: campus in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 9
+[24-Mar-2022 01:15:13 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[24-Mar-2022 01:15:13 Europe/Berlin] PHP Notice:  Undefined index: voters_key in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 11
+[24-Mar-2022 01:18:30 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[24-Mar-2022 01:18:30 Europe/Berlin] PHP Notice:  Undefined index: voters_key in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 11
+[24-Mar-2022 01:19:11 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[24-Mar-2022 01:19:11 Europe/Berlin] PHP Notice:  Undefined index: voters_key in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 11
+[24-Mar-2022 01:19:45 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[24-Mar-2022 01:19:45 Europe/Berlin] PHP Notice:  Undefined index: voters_key in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 11
+[24-Mar-2022 01:20:14 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[24-Mar-2022 01:20:22 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[24-Mar-2022 09:37:14 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[24-Mar-2022 09:37:14 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[24-Mar-2022 09:37:14 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[24-Mar-2022 09:37:14 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[24-Mar-2022 09:37:14 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[24-Mar-2022 09:37:14 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[24-Mar-2022 09:37:14 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[24-Mar-2022 09:37:14 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[24-Mar-2022 09:37:14 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[24-Mar-2022 09:37:14 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[24-Mar-2022 09:37:14 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[24-Mar-2022 09:37:14 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[24-Mar-2022 09:40:15 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[24-Mar-2022 09:40:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[24-Mar-2022 09:40:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[24-Mar-2022 09:40:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[24-Mar-2022 09:40:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[24-Mar-2022 09:40:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[24-Mar-2022 09:40:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[24-Mar-2022 09:40:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[24-Mar-2022 09:40:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[24-Mar-2022 09:40:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[24-Mar-2022 09:40:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[24-Mar-2022 09:40:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[24-Mar-2022 09:42:09 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[24-Mar-2022 15:01:00 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[24-Mar-2022 15:01:00 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[24-Mar-2022 15:01:00 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[24-Mar-2022 15:01:00 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[24-Mar-2022 15:01:00 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[24-Mar-2022 15:01:00 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[24-Mar-2022 15:01:00 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[24-Mar-2022 15:01:00 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[24-Mar-2022 15:01:00 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[24-Mar-2022 15:01:00 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[24-Mar-2022 15:01:00 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[24-Mar-2022 15:01:00 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[24-Mar-2022 15:25:47 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[24-Mar-2022 15:25:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[24-Mar-2022 15:25:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[24-Mar-2022 15:25:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[24-Mar-2022 15:25:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[24-Mar-2022 15:25:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[24-Mar-2022 15:25:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[24-Mar-2022 15:25:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[24-Mar-2022 15:25:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[24-Mar-2022 15:25:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[24-Mar-2022 15:25:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[24-Mar-2022 15:25:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[24-Mar-2022 15:25:47 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[24-Mar-2022 15:25:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[24-Mar-2022 15:25:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[24-Mar-2022 15:25:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[24-Mar-2022 15:25:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[24-Mar-2022 15:25:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[24-Mar-2022 15:25:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[24-Mar-2022 15:25:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[24-Mar-2022 15:25:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[24-Mar-2022 15:25:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[24-Mar-2022 15:25:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[24-Mar-2022 15:25:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[24-Mar-2022 15:58:48 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[24-Mar-2022 15:58:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[24-Mar-2022 15:58:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[24-Mar-2022 15:58:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[24-Mar-2022 15:58:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[24-Mar-2022 15:58:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[24-Mar-2022 15:58:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[24-Mar-2022 15:58:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[24-Mar-2022 15:58:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[24-Mar-2022 15:58:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[24-Mar-2022 15:58:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[24-Mar-2022 15:58:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[24-Mar-2022 16:08:16 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[24-Mar-2022 16:08:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[24-Mar-2022 16:08:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[24-Mar-2022 16:08:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[24-Mar-2022 16:08:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[24-Mar-2022 16:08:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[24-Mar-2022 16:08:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[24-Mar-2022 16:08:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[24-Mar-2022 16:08:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[24-Mar-2022 16:08:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[24-Mar-2022 16:08:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[24-Mar-2022 16:08:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[24-Mar-2022 16:28:56 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[24-Mar-2022 16:28:56 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[24-Mar-2022 16:28:56 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[24-Mar-2022 16:28:56 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[24-Mar-2022 16:28:56 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[24-Mar-2022 16:28:56 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[24-Mar-2022 16:28:56 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[24-Mar-2022 16:28:56 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[24-Mar-2022 16:28:56 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[24-Mar-2022 16:28:56 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[24-Mar-2022 16:28:56 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[24-Mar-2022 16:28:56 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[24-Mar-2022 16:28:57 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[24-Mar-2022 16:28:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[24-Mar-2022 16:28:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[24-Mar-2022 16:28:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[24-Mar-2022 16:28:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[24-Mar-2022 16:28:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[24-Mar-2022 16:28:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[24-Mar-2022 16:28:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[24-Mar-2022 16:28:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[24-Mar-2022 16:28:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[24-Mar-2022 16:28:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[24-Mar-2022 16:28:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Notice:  Undefined variable: voters_id in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 20
+[24-Mar-2022 17:04:23 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bisonyeu/elections.biso.no/admin/voters_import.php:30) in /home/bisonyeu/elections.biso.no/admin/voters_import.php on line 40
+[24-Mar-2022 17:44:27 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[24-Mar-2022 17:44:28 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[24-Mar-2022 17:44:28 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[24-Mar-2022 17:44:28 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[24-Mar-2022 17:44:39 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[24-Mar-2022 17:44:39 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[24-Mar-2022 17:45:03 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[24-Mar-2022 17:45:03 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[24-Mar-2022 17:47:15 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[24-Mar-2022 17:47:15 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[24-Mar-2022 17:47:15 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[24-Mar-2022 17:47:15 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[24-Mar-2022 17:51:39 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[24-Mar-2022 18:25:36 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[24-Mar-2022 18:25:36 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[24-Mar-2022 18:25:36 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[24-Mar-2022 18:25:36 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[24-Mar-2022 18:28:31 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[24-Mar-2022 18:28:31 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[24-Mar-2022 18:28:31 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[24-Mar-2022 18:28:31 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[24-Mar-2022 18:37:17 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[24-Mar-2022 18:37:17 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[24-Mar-2022 18:37:17 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[24-Mar-2022 18:37:17 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[24-Mar-2022 18:41:11 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[24-Mar-2022 18:41:11 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[24-Mar-2022 18:41:11 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[24-Mar-2022 18:41:11 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[24-Mar-2022 18:55:13 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[24-Mar-2022 18:55:13 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[24-Mar-2022 18:55:13 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[24-Mar-2022 18:55:13 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[24-Mar-2022 18:57:02 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[24-Mar-2022 18:57:02 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[24-Mar-2022 18:58:28 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[24-Mar-2022 18:58:28 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[24-Mar-2022 18:58:43 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[24-Mar-2022 18:58:43 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[24-Mar-2022 18:59:10 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[24-Mar-2022 18:59:10 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[24-Mar-2022 19:00:07 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[24-Mar-2022 19:00:07 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[24-Mar-2022 19:00:07 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[24-Mar-2022 19:00:07 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[24-Mar-2022 19:00:07 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[24-Mar-2022 19:00:07 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[24-Mar-2022 19:00:07 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[24-Mar-2022 19:00:07 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[24-Mar-2022 19:00:07 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[24-Mar-2022 19:00:07 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[24-Mar-2022 19:00:07 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[24-Mar-2022 19:00:07 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[24-Mar-2022 19:00:08 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[24-Mar-2022 19:00:08 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[24-Mar-2022 19:00:08 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[24-Mar-2022 19:00:08 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[24-Mar-2022 19:00:08 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[24-Mar-2022 19:00:08 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[24-Mar-2022 19:00:08 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[24-Mar-2022 19:00:08 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[24-Mar-2022 19:00:08 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[24-Mar-2022 19:00:08 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[24-Mar-2022 19:00:08 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[24-Mar-2022 19:00:08 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[24-Mar-2022 19:00:36 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[24-Mar-2022 19:00:36 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[24-Mar-2022 19:02:48 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[24-Mar-2022 19:02:48 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[24-Mar-2022 19:02:48 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[24-Mar-2022 19:02:48 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[24-Mar-2022 23:09:29 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[24-Mar-2022 23:09:29 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[24-Mar-2022 23:09:29 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[24-Mar-2022 23:09:29 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[24-Mar-2022 23:09:29 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[24-Mar-2022 23:09:29 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[24-Mar-2022 23:09:29 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[24-Mar-2022 23:09:29 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[24-Mar-2022 23:09:29 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[24-Mar-2022 23:09:29 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[24-Mar-2022 23:09:29 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[24-Mar-2022 23:09:29 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[24-Mar-2022 23:09:30 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[24-Mar-2022 23:09:30 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[24-Mar-2022 23:09:30 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[24-Mar-2022 23:09:30 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[24-Mar-2022 23:09:30 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[24-Mar-2022 23:09:30 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[24-Mar-2022 23:09:30 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[24-Mar-2022 23:09:30 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[24-Mar-2022 23:09:30 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[24-Mar-2022 23:09:30 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[24-Mar-2022 23:09:30 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[24-Mar-2022 23:09:30 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[25-Mar-2022 09:53:35 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[25-Mar-2022 09:53:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[25-Mar-2022 09:53:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[25-Mar-2022 09:53:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[25-Mar-2022 09:53:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[25-Mar-2022 09:53:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[25-Mar-2022 09:53:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[25-Mar-2022 09:53:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[25-Mar-2022 09:53:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[25-Mar-2022 09:53:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[25-Mar-2022 09:53:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[25-Mar-2022 09:53:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[25-Mar-2022 09:55:17 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[25-Mar-2022 09:55:18 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[25-Mar-2022 09:55:18 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[25-Mar-2022 09:55:18 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[29-Mar-2022 10:03:23 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[29-Mar-2022 10:03:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[29-Mar-2022 10:03:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[29-Mar-2022 10:03:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[29-Mar-2022 10:03:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[29-Mar-2022 10:03:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[29-Mar-2022 10:03:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[29-Mar-2022 10:03:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[29-Mar-2022 10:03:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[29-Mar-2022 10:03:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[29-Mar-2022 10:03:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[29-Mar-2022 10:03:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[01-Apr-2022 16:39:54 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[01-Apr-2022 16:39:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[01-Apr-2022 16:39:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[01-Apr-2022 16:39:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[01-Apr-2022 16:39:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[01-Apr-2022 16:39:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[01-Apr-2022 16:39:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[01-Apr-2022 16:39:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[01-Apr-2022 16:39:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[01-Apr-2022 16:39:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[01-Apr-2022 16:39:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[01-Apr-2022 16:39:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[05-Apr-2022 13:57:15 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[05-Apr-2022 13:57:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[05-Apr-2022 13:57:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[05-Apr-2022 13:57:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[05-Apr-2022 13:57:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[05-Apr-2022 13:57:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[05-Apr-2022 13:57:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[05-Apr-2022 13:57:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[05-Apr-2022 13:57:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[05-Apr-2022 13:57:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[05-Apr-2022 13:57:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[05-Apr-2022 13:57:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[05-Apr-2022 13:57:16 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[05-Apr-2022 13:57:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[05-Apr-2022 13:57:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[05-Apr-2022 13:57:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[05-Apr-2022 13:57:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[05-Apr-2022 13:57:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[05-Apr-2022 13:57:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[05-Apr-2022 13:57:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[05-Apr-2022 13:57:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[05-Apr-2022 13:57:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[05-Apr-2022 13:57:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[05-Apr-2022 13:57:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[06-Apr-2022 15:36:20 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[06-Apr-2022 15:36:20 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[06-Apr-2022 15:36:20 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[06-Apr-2022 15:36:20 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[06-Apr-2022 15:36:20 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[06-Apr-2022 15:36:29 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[06-Apr-2022 15:36:29 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[08-Apr-2022 10:46:03 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[08-Apr-2022 10:46:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[08-Apr-2022 10:46:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[08-Apr-2022 10:46:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[08-Apr-2022 10:46:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[08-Apr-2022 10:46:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[08-Apr-2022 10:46:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[08-Apr-2022 10:46:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[08-Apr-2022 10:46:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[08-Apr-2022 10:46:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[08-Apr-2022 10:46:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[08-Apr-2022 10:46:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[08-Apr-2022 10:46:04 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[08-Apr-2022 10:46:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[08-Apr-2022 10:46:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[08-Apr-2022 10:46:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[08-Apr-2022 10:46:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[08-Apr-2022 10:46:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[08-Apr-2022 10:46:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[08-Apr-2022 10:46:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[08-Apr-2022 10:46:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[08-Apr-2022 10:46:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[08-Apr-2022 10:46:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[08-Apr-2022 10:46:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[08-Apr-2022 22:33:43 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[08-Apr-2022 22:33:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[08-Apr-2022 22:33:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[08-Apr-2022 22:33:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[08-Apr-2022 22:33:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[08-Apr-2022 22:33:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[08-Apr-2022 22:33:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[08-Apr-2022 22:33:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[08-Apr-2022 22:33:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[08-Apr-2022 22:33:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[08-Apr-2022 22:33:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[08-Apr-2022 22:33:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[08-Apr-2022 22:33:44 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[08-Apr-2022 22:33:44 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[08-Apr-2022 22:33:44 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[08-Apr-2022 22:33:44 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[08-Apr-2022 22:33:44 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[08-Apr-2022 22:33:44 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[08-Apr-2022 22:33:44 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[08-Apr-2022 22:33:44 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[08-Apr-2022 22:33:44 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[08-Apr-2022 22:33:44 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[08-Apr-2022 22:33:44 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[08-Apr-2022 22:33:44 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[08-Apr-2022 22:36:33 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 22:36:48 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 22:37:34 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 22:39:46 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 22:40:25 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 22:41:19 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 22:42:34 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 22:43:18 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 22:47:33 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 22:48:17 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 22:49:37 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 23:00:06 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 23:00:52 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 23:01:09 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 23:01:57 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 23:02:42 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 23:03:19 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 23:06:55 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 23:07:57 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 23:08:55 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 23:12:03 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 23:12:36 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 23:13:20 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 23:14:09 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 23:15:58 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 23:19:18 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 23:21:28 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 23:22:05 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 23:23:46 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 23:24:20 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 23:24:58 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 23:25:50 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 23:26:05 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 23:26:20 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 23:26:36 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 23:27:45 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 23:29:38 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[08-Apr-2022 23:31:39 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[09-Apr-2022 09:27:42 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[09-Apr-2022 09:27:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[09-Apr-2022 09:27:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[09-Apr-2022 09:27:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[09-Apr-2022 09:27:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[09-Apr-2022 09:27:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[09-Apr-2022 09:27:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[09-Apr-2022 09:27:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[09-Apr-2022 09:27:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[09-Apr-2022 09:27:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[09-Apr-2022 09:27:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[09-Apr-2022 09:27:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[09-Apr-2022 09:27:42 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[09-Apr-2022 09:27:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[09-Apr-2022 09:27:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[09-Apr-2022 09:27:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[09-Apr-2022 09:27:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[09-Apr-2022 09:27:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[09-Apr-2022 09:27:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[09-Apr-2022 09:27:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[09-Apr-2022 09:27:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[09-Apr-2022 09:27:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[09-Apr-2022 09:27:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[09-Apr-2022 09:27:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[09-Apr-2022 11:59:51 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[09-Apr-2022 11:59:52 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[09-Apr-2022 11:59:52 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[09-Apr-2022 11:59:52 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[09-Apr-2022 11:59:52 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[09-Apr-2022 11:59:52 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[09-Apr-2022 12:00:44 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[09-Apr-2022 12:00:44 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[09-Apr-2022 12:01:01 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[09-Apr-2022 12:01:01 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[09-Apr-2022 14:04:39 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[09-Apr-2022 14:04:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[09-Apr-2022 14:04:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[09-Apr-2022 14:04:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[09-Apr-2022 14:04:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[09-Apr-2022 14:04:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[09-Apr-2022 14:04:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[09-Apr-2022 14:04:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[09-Apr-2022 14:04:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[09-Apr-2022 14:04:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[09-Apr-2022 14:04:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[09-Apr-2022 14:04:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[09-Apr-2022 14:07:53 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[09-Apr-2022 14:07:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[09-Apr-2022 14:07:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[09-Apr-2022 14:07:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[09-Apr-2022 14:07:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[09-Apr-2022 14:07:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[09-Apr-2022 14:07:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[09-Apr-2022 14:07:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[09-Apr-2022 14:07:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[09-Apr-2022 14:07:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[09-Apr-2022 14:07:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[09-Apr-2022 14:07:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[09-Apr-2022 14:12:34 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[09-Apr-2022 14:12:34 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[09-Apr-2022 14:12:34 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[09-Apr-2022 14:12:34 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[09-Apr-2022 14:12:34 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[09-Apr-2022 14:12:34 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[09-Apr-2022 14:12:34 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[09-Apr-2022 14:12:34 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[09-Apr-2022 14:12:34 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[09-Apr-2022 14:12:34 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[09-Apr-2022 14:12:34 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[09-Apr-2022 14:12:34 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[09-Apr-2022 15:20:47 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[09-Apr-2022 15:26:48 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[09-Apr-2022 15:26:48 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[09-Apr-2022 15:26:48 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[09-Apr-2022 15:26:48 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[09-Apr-2022 15:30:26 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[09-Apr-2022 15:30:26 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[09-Apr-2022 15:30:26 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[09-Apr-2022 15:30:26 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[09-Apr-2022 15:48:58 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[09-Apr-2022 15:48:58 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[09-Apr-2022 15:48:58 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[09-Apr-2022 15:48:58 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[09-Apr-2022 15:49:28 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[09-Apr-2022 15:49:28 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[09-Apr-2022 15:50:18 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[09-Apr-2022 15:50:18 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[09-Apr-2022 15:57:30 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[09-Apr-2022 15:57:30 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[09-Apr-2022 15:57:30 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[09-Apr-2022 15:57:30 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[09-Apr-2022 16:00:42 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[09-Apr-2022 16:00:42 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[09-Apr-2022 16:00:42 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[09-Apr-2022 16:00:43 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[09-Apr-2022 16:03:37 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[09-Apr-2022 16:03:37 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[09-Apr-2022 16:03:37 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[09-Apr-2022 16:03:37 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[09-Apr-2022 16:06:38 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[09-Apr-2022 16:06:38 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[09-Apr-2022 16:06:38 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[09-Apr-2022 16:06:38 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[09-Apr-2022 16:06:57 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[09-Apr-2022 16:06:57 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[09-Apr-2022 16:07:14 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[09-Apr-2022 16:07:14 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[09-Apr-2022 16:45:32 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[09-Apr-2022 16:45:32 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[09-Apr-2022 16:45:32 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[09-Apr-2022 16:45:32 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[09-Apr-2022 16:45:55 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[09-Apr-2022 16:45:55 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[09-Apr-2022 16:46:41 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[09-Apr-2022 16:46:41 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[09-Apr-2022 17:46:17 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[09-Apr-2022 17:46:17 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[09-Apr-2022 17:46:17 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[09-Apr-2022 17:46:17 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[10-Apr-2022 10:38:27 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[10-Apr-2022 10:38:27 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[10-Apr-2022 10:38:27 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[10-Apr-2022 10:38:27 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[10-Apr-2022 10:38:27 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[10-Apr-2022 10:38:27 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[10-Apr-2022 10:38:27 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[10-Apr-2022 10:38:27 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[10-Apr-2022 10:38:27 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[10-Apr-2022 10:38:27 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[10-Apr-2022 10:38:27 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[10-Apr-2022 10:38:27 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[10-Apr-2022 11:36:08 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[10-Apr-2022 11:36:08 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[10-Apr-2022 11:36:08 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[10-Apr-2022 11:36:08 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[10-Apr-2022 11:47:03 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[10-Apr-2022 11:47:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[10-Apr-2022 11:47:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[10-Apr-2022 11:47:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[10-Apr-2022 11:47:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[10-Apr-2022 11:47:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[10-Apr-2022 11:47:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[10-Apr-2022 11:47:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[10-Apr-2022 11:47:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[10-Apr-2022 11:47:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[10-Apr-2022 11:47:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[10-Apr-2022 11:47:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[10-Apr-2022 16:15:17 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[10-Apr-2022 16:15:17 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[10-Apr-2022 16:15:17 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[10-Apr-2022 16:15:17 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[10-Apr-2022 17:21:49 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[10-Apr-2022 17:21:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[10-Apr-2022 17:21:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[10-Apr-2022 17:21:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[10-Apr-2022 17:21:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[10-Apr-2022 17:21:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[10-Apr-2022 17:21:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[10-Apr-2022 17:21:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[10-Apr-2022 17:21:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[10-Apr-2022 17:21:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[10-Apr-2022 17:21:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[10-Apr-2022 17:21:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[11-Apr-2022 11:38:51 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[11-Apr-2022 11:38:51 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[11-Apr-2022 11:38:51 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[11-Apr-2022 11:38:51 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[14-Apr-2022 21:26:57 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[14-Apr-2022 21:26:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[14-Apr-2022 21:26:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[14-Apr-2022 21:26:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[14-Apr-2022 21:26:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[14-Apr-2022 21:26:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[14-Apr-2022 21:26:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[14-Apr-2022 21:26:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[14-Apr-2022 21:26:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[14-Apr-2022 21:26:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[14-Apr-2022 21:26:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[14-Apr-2022 21:26:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[20-Apr-2022 17:52:24 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[20-Apr-2022 17:52:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[20-Apr-2022 17:52:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[20-Apr-2022 17:52:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[20-Apr-2022 17:52:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[20-Apr-2022 17:52:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[20-Apr-2022 17:52:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[20-Apr-2022 17:52:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[20-Apr-2022 17:52:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[20-Apr-2022 17:52:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[20-Apr-2022 17:52:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[20-Apr-2022 17:52:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[20-Apr-2022 17:55:01 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[20-Apr-2022 17:55:01 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[20-Apr-2022 17:55:01 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[20-Apr-2022 17:55:01 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[21-Apr-2022 14:34:04 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[21-Apr-2022 14:34:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[21-Apr-2022 14:34:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[21-Apr-2022 14:34:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[21-Apr-2022 14:34:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[21-Apr-2022 14:34:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[21-Apr-2022 14:34:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[21-Apr-2022 14:34:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[21-Apr-2022 14:34:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[21-Apr-2022 14:34:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[21-Apr-2022 14:34:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[21-Apr-2022 14:34:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[21-Apr-2022 14:43:11 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[21-Apr-2022 14:53:41 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[21-Apr-2022 14:54:21 Europe/Berlin] PHP Notice:  Undefined index: password in /home/bisonyeu/elections.biso.no/admin/voters_edit.php on line 10
+[21-Apr-2022 15:17:32 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[21-Apr-2022 15:17:32 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[21-Apr-2022 15:17:32 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[21-Apr-2022 15:17:32 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[21-Apr-2022 15:17:43 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[21-Apr-2022 15:17:43 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[21-Apr-2022 15:17:56 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[21-Apr-2022 15:17:56 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[21-Apr-2022 15:18:29 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[21-Apr-2022 15:18:29 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[21-Apr-2022 15:19:40 Europe/Berlin] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 17778
+[21-Apr-2022 15:19:40 Europe/Berlin] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_images.php on line 318
+[21-Apr-2022 15:19:40 Europe/Berlin] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/bisonyeu/elections.biso.no/tcpdf/include/tcpdf_fonts.php on line 1671
+[21-Apr-2022 15:19:40 Europe/Berlin] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/bisonyeu/elections.biso.no/tcpdf/tcpdf.php on line 16542
+[22-Apr-2022 12:34:37 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[22-Apr-2022 12:34:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[22-Apr-2022 12:34:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[22-Apr-2022 12:34:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[22-Apr-2022 12:34:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[22-Apr-2022 12:34:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[22-Apr-2022 12:34:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[22-Apr-2022 12:34:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[22-Apr-2022 12:34:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[22-Apr-2022 12:34:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[22-Apr-2022 12:34:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[22-Apr-2022 12:34:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[31-May-2022 19:43:51 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[31-May-2022 19:43:51 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[31-May-2022 19:43:51 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[31-May-2022 19:43:51 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[31-May-2022 19:43:51 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[31-May-2022 19:43:51 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[31-May-2022 19:43:51 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[31-May-2022 19:43:51 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[31-May-2022 19:43:51 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[31-May-2022 19:43:51 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[31-May-2022 19:43:51 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[31-May-2022 19:43:51 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[01-Jun-2022 09:10:35 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[01-Jun-2022 09:10:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[01-Jun-2022 09:10:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[01-Jun-2022 09:10:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[01-Jun-2022 09:10:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[01-Jun-2022 09:10:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[01-Jun-2022 09:10:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[01-Jun-2022 09:10:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[01-Jun-2022 09:10:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[01-Jun-2022 09:10:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[01-Jun-2022 09:10:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[01-Jun-2022 09:10:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[21-Jun-2022 16:10:22 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[21-Jun-2022 16:10:22 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[21-Jun-2022 16:10:22 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[21-Jun-2022 16:10:22 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[21-Jun-2022 16:10:22 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[21-Jun-2022 16:10:22 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[21-Jun-2022 16:10:22 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[21-Jun-2022 16:10:22 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[21-Jun-2022 16:10:22 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[21-Jun-2022 16:10:22 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[21-Jun-2022 16:10:22 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[21-Jun-2022 16:10:22 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[09-Jul-2022 00:49:37 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[09-Jul-2022 00:49:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[09-Jul-2022 00:49:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[09-Jul-2022 00:49:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[09-Jul-2022 00:49:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[09-Jul-2022 00:49:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[09-Jul-2022 00:49:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[09-Jul-2022 00:49:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[09-Jul-2022 00:49:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[09-Jul-2022 00:49:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[09-Jul-2022 00:49:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[09-Jul-2022 00:49:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[04-Sep-2022 15:26:51 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/positions_add.php on line 13
+[04-Sep-2022 15:37:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/positions_add.php on line 13
+[04-Sep-2022 15:39:01 Europe/Berlin] PHP Notice:  Undefined index: election in /home/bisonyeu/elections.biso.no/admin/election_add.php on line 5
+[05-Sep-2022 10:08:09 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/positions_add.php on line 13
+[06-Sep-2022 11:32:54 Europe/Berlin] PHP Notice:  Undefined index: admin in /home/bisonyeu/elections.biso.no/admin/includes/session.php on line 9
+[06-Sep-2022 11:32:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[06-Sep-2022 11:32:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 22
+[06-Sep-2022 11:32:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[06-Sep-2022 11:32:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 30
+[06-Sep-2022 11:32:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/navbar.php on line 31
+[06-Sep-2022 11:32:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 16
+[06-Sep-2022 11:32:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 23
+[06-Sep-2022 11:32:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 30
+[06-Sep-2022 11:32:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/profile_modal.php on line 37
+[06-Sep-2022 11:32:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
+[06-Sep-2022 11:32:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in /home/bisonyeu/elections.biso.no/admin/includes/menubar.php on line 10
